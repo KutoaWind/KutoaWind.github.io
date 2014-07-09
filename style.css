@@ -6,3 +6,12 @@ body {
   color:#fff;
   font-size:30px;
 }
+
+h1 {
+  height:240px;
+  background:url(logo.png) no-repeat center 0;
+  background-size: 240px 240px;
+}
+h1 span {
+  display:none;
+}
