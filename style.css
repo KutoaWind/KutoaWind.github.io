@@ -1,0 +1,8 @@
+body {
+  background-image:url('background.jpg');
+  background-size: cover;
+  text-align:center;
+  font-family: sans-serif;
+  color:#fff;
+  font-size:30px;
+}
