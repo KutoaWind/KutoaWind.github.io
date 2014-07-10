@@ -8,9 +8,9 @@ body {
 }
 
 h1 {
-  height:240px;
+  max-height:70%;
   background:url(logo.png) no-repeat center 0;
-  background-size: 240px 240px;
+  width: auto;
 }
 h1 span {
   display:none;
